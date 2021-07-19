@@ -10,3 +10,6 @@ Here, I have trained the yolo model for 2 classes (wearing mask and not wearing 
 This project was inspired from the youtube channel video
 
 https://www.youtube.com/watch?v=_FNfRtXEbr4&t=918s
+
+
+In this project, I have used the python google colab complier to make use of the google fast free GPU.  
