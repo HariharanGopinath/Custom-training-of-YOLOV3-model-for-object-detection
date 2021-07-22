@@ -17,3 +17,11 @@ https://www.youtube.com/watch?v=_FNfRtXEbr4&t=918s
 
 
 In this project, I have used the python google colab complier to make use of the google fast free GPU.  
+
+Techniques: transfer learning
+
+Transfer learning is the process of retraining a pretrained network to classify a new set of images. The components needed for transfer learning are: pretrained network layers, training data, and algorithm options. This activity reviews creating the datastore and the training options so that you can perform transfer learning with darnet network.
+
+Pretrained networks can classify images into predetermined categories. The data set in this project contains specification of with mask and without mask, and the pretrained network has not been trained on these classes. Instead of starting from scratch, I had modified a pretrained network to fit this project.
+
+
