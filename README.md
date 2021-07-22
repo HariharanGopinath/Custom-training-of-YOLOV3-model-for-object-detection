@@ -7,6 +7,10 @@ https://user-images.githubusercontent.com/71879067/126141613-e70befe8-4c68-480d-
 # Custom-training-of-YOLOV3-model-for-object-detection
 Here, I have trained the yolo model for 2 classes (wearing mask and not wearing mask). For training this model, I have used the darknet files from the internet and did modification in cfg files for 2 classes object detection
 
+Darknet files with weights and cfg can be downloaded from 
+https://github.com/AlexeyAB/darknet
+
+
 This project was inspired from the youtube channel video
 
 https://www.youtube.com/watch?v=_FNfRtXEbr4&t=918s
