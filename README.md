@@ -1,6 +1,6 @@
 
 
-**# Custom-training-of-YOLOV3-model-for-object-detection**
+**Custom-training-of-YOLOV3-model-for-object-detection**
 Here, I have trained the yolo model for 2 classes (wearing mask and not wearing mask). For training this model, I have used the darknet files from the internet and did modification in cfg files for 2 classes object detection
 
 Darknet files with weights and cfg can be downloaded from 
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_FNfRtXEbr4&t=918s
 
 In this project, I have used the python google colab complier to make use of the google fast free GPU.  
 
-**Techniques: transfer learning**
+*Techniques: transfer learning
 
 Transfer learning is the process of retraining a pretrained network to classify a new set of images. The components needed for transfer learning are: pretrained network layers, training data, and algorithm options. This activity reviews creating the datastore and the training options so that you can perform transfer learning with darnet network.
 
