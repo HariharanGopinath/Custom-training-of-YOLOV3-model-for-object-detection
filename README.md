@@ -1,6 +1,6 @@
 
 
-## **Custom-training-of-YOLOV3-model-for-object-detection**
+## Custom-training-of-YOLOV3-model-for-object-detection
 Here, I have trained the yolo model for 2 classes (wearing mask and not wearing mask). For training this model, I have used the darknet files from the internet and did modification in cfg files for 2 classes object detection
 
 Darknet files with weights and cfg can be downloaded from 
@@ -24,7 +24,7 @@ Pretrained networks can classify images into predetermined categories. The data 
 ## Dataset
 For this python project, I had used theFace Mask Detection; the dataset is available in the public domain and you can find from below link. This dataset serves as a benchmark for face photos with and without mask and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance. It has a total of 853 photos. For labelling the dataset, I used LabelImg - https://tzutalin.github.io/labelImg/ to separate the images classes as 0 and 1 (without mask and with mask)
 
-**Results**
+## Results
 
 ![with_mask](https://user-images.githubusercontent.com/71879067/126141579-631e12f6-fc00-4609-97ad-cec332ea54db.JPG)
 ![without_mask](https://user-images.githubusercontent.com/71879067/126141598-aadd9773-6f26-43da-ab61-e0339b35f25e.JPG)
